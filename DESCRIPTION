@@ -1,0 +1,20 @@
+Title: Sample App - A Lengthy Title
+ShortName: Sample App
+Date: 2021-05-13
+Lifecycle: experimental
+Authors@R: c(
+    person(given = "Neil", family = "Hatfield", email = "neil.hatfield@psu.edu", role = c("aut", "cre")),
+    person(given = "Robert", family = "Carey", email = "rpc5102@psu.edu", role = c("aut"))
+  )
+Chapter: Sample Chapter
+Description: This app is focused on the common types of xyz.
+LearningObjectives: c(
+    "The student will learn to understand Concept A in way z.",
+    "The student will learn to understand Concept B as description y."
+  )
+DisplayMode: Normal
+URL: https://psu-eberly.shinyapps.io/Sample_App
+BugReports: https://github.com/EducationShinyAppTeam/Sample_App/issues
+License: CC-BY-NC-SA-4.0
+Tags: simulation
+Type: Shiny
