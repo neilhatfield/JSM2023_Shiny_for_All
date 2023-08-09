@@ -1,10 +1,9 @@
-Title: Sample App - A Lengthy Title
-ShortName: Sample App
-Date: 2021-05-13
+Title: `Shiny for All: Making Statistics and Data Science Accessible`
+ShortName: Shiny for All
+Date: 2023-08-08
 Lifecycle: experimental
 Authors@R: c(
-    person(given = "Neil", family = "Hatfield", email = "neil.hatfield@psu.edu", role = c("aut", "cre")),
-    person(given = "Robert", family = "Carey", email = "rpc5102@psu.edu", role = c("aut"))
+    person(given = "Neil", family = "Hatfield", email = "neil.hatfield@psu.edu", role = c("aut", "cre"))
   )
 Chapter: Sample Chapter
 Description: This app is focused on the common types of xyz.

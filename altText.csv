@@ -1,0 +1,25 @@
+﻿plotType,term,byTerm,characterCount,altText
+Box plot,All,FALSE,118,"Low score is 0; first whisker goes to 2; the median is at 4, and right box edge is at 8; second whisker streches to 17"
+Box plot,Spring '22,FALSE,119,"Low score is 2; first whisker goes to 3; the median is at 5, and right box edge is at 9;  second whisker streches to 11"
+Box plot,Fall '22,FALSE,147,"Low score is 0; first whisker goes to 1; the median is at 2.5, and right edge is at 4; second whisker streches to 8; possible outliers at 10 and 12"
+Box plot,Spring '23,FALSE,118,"Low score is 2; first whisker goes to 3.5; the median is at 6, and right edge is at 9.5; second whisker streches to 17"
+Box plot,All,TRUE,133,Senior+ box at top is narrowest and on low end; three potential high outliers; other boxes are wider; tend higher scores than Senior+
+Box plot,Spring '22,TRUE,139,"Sophomore box at bottom is largest, other two are simlilar size; Senior+ at top is lowest while Juniors highest with two potential outliers"
+Box plot,Fall '22,TRUE,92,The one sophomore scored 8; Junior and Senior+ tended to score lower and show more variation
+Box plot,Spring '23,TRUE,138,"Senior+ box at top shows most variation and tends to have higher score; Juniors are in the middle, Sophomores at bottom with lowest scores"
+Histogram,All,FALSE,62,A positively skewed histogram with most scores between 0 and 3
+Histogram,Spring '22,FALSE,47,Nearly rectangular histogram with dip in middle
+Histogram,Fall '22,FALSE,62,A positively skewed histogram with most scores between 0 and 2
+Histogram,Spring '23,FALSE,70,The slightly positively skewed histogram peaks between 6 and 11 points
+Histogram,All,TRUE,139,"Senior+ is postively skewed with most scores under 3; Juniors are sighly symmetric, peak between 4 and 9; sophomores mostly beween 5 and 10"
+Histogram,Spring '22,TRUE,129,Senior+ is postively skewed peaking at 3; Junior is positively skewed peaking at 9; sophomores symmetric with most beween 4 and 9
+Histogram,Fall '22,TRUE,99,Senior+ is postively skewed peaking between 0 and 2; Junior mostly flat; the one Sophomore scored 8
+Histogram,Spring '23,TRUE,93,Senior+ is mostly flat; Junior is symmetric around 5 to 9; sophmores are all between 6 and 12
+Density,All,FALSE,72,Positively skewed with most scoring at 0 and decresing nonlinearly to 17
+Density,Spring '22,FALSE,35,Bimodal with peaks around 3.5 and 9
+Density,Fall '22,FALSE,95,Postively skewed with most scoring at 0 with nonlinearly drop to 6 where the curve flattens out
+Density,Spring '23,FALSE,87,"Starts high at 2 and increases nonlinearly to about 5, then decreases nonlinearly to 17"
+Density,All,TRUE,119,Senior+ is right skewed with most density between 0 and 5 while Sophomore and Junior peak around 7.5 and 9 respectively
+Density,Spring '22,TRUE,123,"Senior+ pleaks around 3; Junior is trimodal with peaks at 5, 8 and 11; sophomore is mostly flat with a slight peak around 8"
+Density,Fall '22,TRUE,125,Senior+ is positively skewed with high density at 0; Juniors decrease more slowly; the one sophomore who scored 8 isn't shown
+Density,Spring '23,TRUE,139,Senior+ is mostly flat with a slight peak at 6; Junior mounds higher than Senior+ at 6; Sophomore starts high at 2 and decreases to 0 at 15
