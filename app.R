@@ -117,7 +117,7 @@ ui <- list(
           h1(
             style = "text-align: center;",
             "Shiny for All:", br(),
-"Making Statistics and Data Science Accessible"
+            "Making Statistics and Data Science Accessible"
           ),
           p("This Shiny app provides a set of examples for thinking about
             the web accessiblity of Shiny apps. There will be examples of things
@@ -132,8 +132,9 @@ ui <- list(
           tags$ol(
             tags$li(strong("Document Structure:"), "Some key HTML tags that will
                     help screenreaders detect a useful structure for your app."),
-            tags$li(strong("Inputs & Tables:"), "Helping everyone get the most of
-                    user inputs and some notes on tables."),
+            tags$li(strong("Inputs:"), "Helping everyone get the most of
+                    user inputs."),
+            tags$li(strong("Tables:"), "A few details for making accessible tables"),
             tags$li(strong("Graphics:"), "Dealing with color and alt text for
                     static images and plots."),
             tags$li(strong("References:"), "Under construction")
